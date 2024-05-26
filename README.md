@@ -1,4 +1,4 @@
-# Hello, I'm Mr_B
+# Hello, I am Mr_B
 
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -58,3 +58,5 @@ My journey into building a home lab for experimental and learning purposes has l
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+<img src="https://github.com/tCkEnterprises/tCkEnterprises/blob/output/github-contribution-grid-snake.svg" />
