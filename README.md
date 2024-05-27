@@ -1,62 +1,52 @@
-# Hello, I am Mr_B
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <title>Elena's Profile</title>
+  <meta name="description" content="Page description. No longer than 155 characters.">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
 
+  <div class="container">
+    <div class="card-white" id="introduction">
+      <h1>I'm Elena...</h1>
+      <img src="images/me2.jpg" width="100px" alt="Elena Perez" class="img-circle">
+      <h2>...and I'm trying to be a programmer 🤷 </h2>
+      <p>From scuba diver to coder. Currently taking part in Le Wagon's famous bootcamp to do a career change and follow my newfound passion.</p>
+    </div>
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-
-My journey into building a home lab for experimental and learning purposes has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
-
-<img src="https://github.com/tCkEnterprises/tCkEnterprises/blob/output/github-contribution-grid-snake.svg" />
+    <div class="card-white">
+      <h3>Follow Me</h3>
+      <ul class="list-inline">
+        <li>
+          <a href="https://github.com/papillard" target="_blank">
+            <i class="fab fa-github-square"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/bpapillard" target="_blank">
+            <i class="fab fa-twitter-square"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://medium.com/@papillard" target="_blank">
+            <i class="fab fa-medium"></i>
+          </a>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <a href="https://twitter.com/Perez84Elena" target = "_blank"><img src="images/download.png" width="30px" alt="Twitter"></a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/elenachachachaperez" target = "_blank"><img src="images/facebook.png" width="30px" alt="Twitter"></a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/scubachachacha/" target = "_blank"><img src="images/instagram.jpeg" width="30px" alt="Twitter"></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
